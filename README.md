@@ -8,12 +8,8 @@ I'm a self taught software developer with a passionate for writing clean, mainta
 - Exploring best practices in database design with MySQL and PostgreSQL
 - Continuing to strengthen my C# fundamentals
 
-### 🛠 Tech Stack
-**Frontend**:  
-HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
-
-**Backend**:  
-Node.js, Express, C#, .NET
+### 🛠 Tech Stack 
+HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, C#, .NET
 
 **Databases**:  
 MySQL, PostgreSQL
