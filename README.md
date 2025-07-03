@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there, I'm David 👋
 
-<!--
-**David-Nakeeran/david-nakeeran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self taught software developer with a passionate for writing clean, maintainable code and building applications that are thoughtful, useful, and accessible.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently learning
+- Deepening my understanding of React and Next.js
+- Writing clean backend code with Node.js and Express
+- Exploring best practices in database design with MySQL and PostgreSQL
+- Continuing to strengthen my C# fundamentals
+
+---
+
+### 🛠 Tech Stack
+**Frontend**:  
+HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
+
+**Backend**:  
+Node.js, Express, C#, .NET
+
+**Databases**:  
+MySQL, PostgreSQL
+
+**Tools**:  
+Git, GitHub, VS Code, Postman
+
+---
+
+I’m always looking to improve, learn something new, and take on meaningful projects.  
+Thanks for visiting.
