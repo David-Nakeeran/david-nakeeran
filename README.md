@@ -9,13 +9,7 @@ I'm a self taught software developer with a passionate for writing clean, mainta
 - Continuing to strengthen my C# fundamentals
 
 ### 🛠 Tech Stack 
-HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, C#, .NET
-
-**Databases**:  
-MySQL, PostgreSQL
-
-**Tools**:  
-Git, GitHub, VS Code, Postman
+HTML | CSS | JavaScript | React | Next.js | Tailwind | Node.js | Express | C# | MySQL, PostgreSQL
 
 I’m always looking to improve, learn something new, and take on meaningful projects.  
 
